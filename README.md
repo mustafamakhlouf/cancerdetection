@@ -20,7 +20,7 @@
 
 # Installation & Setup
   1. Clone the repository
-    git clone https://github.com/your-username/skin-cancer-detection.gitcd skin-cancer-detection
+    git clone [https://github.com/your-username/skin-cancer-detection.gitcd](https://github.com/mustafamakhlouf/cancerdetection) skin-cancer-detection
   2. Create a virtual environment (optional but recommended)
     python -m venv venv
     source venv/bin/activate   # On Linux/Mac
